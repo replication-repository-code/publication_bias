@@ -1,0 +1,11 @@
+                                              method                  cell
+                    Uncorrected random-effects model  0.123 [0.098, 0.148]
+                                                UWLS 0.028 [−0.215, 0.270]
+                                                WAAP 0.005 [−0.134, 0.144]
+                                                 PET 0.004 [−0.221, 0.229]
+                                               PEESE 0.022 [−0.207, 0.252]
+                                           PET-PEESE 0.004 [−0.221, 0.229]
+              Three-parameter selection model (3PSM)  0.029 [0.002, 0.056]
+               Four-parameter selection model (4PSM) 0.010 [−0.007, 0.028]
+                                       Trim-and-fill  0.089 [0.080, 0.097]
+Uncorrected, leaving out one trial at a time (range)        0.117 to 0.125

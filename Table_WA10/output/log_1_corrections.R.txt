@@ -1,0 +1,91 @@
+       sample trials largest_trial share_largest       three_largest
+C_full C_full    130        U-P054         0.332    U-P054; K26; K47
+C_know C_know    115           K57         0.120 K57; U-P026; U-P038
+       share_three_largest
+C_full               0.677
+C_know               0.312
+   sample                                   method       g      se       lo
+1  C_full         Uncorrected random-effects model 0.12300 0.01247  0.09831
+2  C_full                                     UWLS 0.02757 0.02343 -0.21497
+3  C_full                                     WAAP 0.00476 0.01230 -0.13449
+4  C_full                                      PET 0.00382 0.02041 -0.22146
+5  C_full                                    PEESE 0.02237 0.02190 -0.20691
+6  C_full                                PET-PEESE 0.00382 0.02041 -0.22146
+7  C_full   Three-parameter selection model (3PSM) 0.12208 0.00811  0.10619
+8  C_full    Four-parameter selection model (4PSM) 0.09092 0.01061  0.07013
+9  C_full                            Trim-and-fill 0.08862 0.00452  0.07976
+10 C_full Uncorrected, leave one trial out (range)      NA      NA  0.11671
+11 C_know         Uncorrected random-effects model 0.27825 0.02470  0.22929
+12 C_know                                     UWLS 0.15661 0.01316  0.12060
+13 C_know                                     WAAP 0.14694 0.01552  0.10084
+14 C_know                                      PET 0.10491 0.02936 -0.00666
+15 C_know                                    PEESE 0.13828 0.01528  0.09400
+16 C_know                                PET-PEESE 0.13828 0.01528  0.09400
+17 C_know   Three-parameter selection model (3PSM) 0.21946 0.01738  0.18538
+18 C_know    Four-parameter selection model (4PSM) 0.17173 0.02541  0.12193
+19 C_know                            Trim-and-fill 0.20061 0.01107  0.17890
+20 C_know Uncorrected, leave one trial out (range)      NA      NA  0.26659
+       hi
+1  0.1477
+2  0.2701
+3  0.1440
+4  0.2291
+5  0.2516
+6  0.2291
+7  0.1380
+8  0.1117
+9  0.0975
+10 0.1255
+11 0.3272
+12 0.1926
+13 0.1930
+14 0.2165
+15 0.1826
+16 0.1826
+17 0.2535
+18 0.2215
+19 0.2223
+20 0.2821
+                                                                                                                                                    note
+1                                                                                                                                                       
+2                                                                                                                           CR2 standard errors by trial
+3                                                                                                          17 adequately powered estimates from 4 trials
+4                                                                                                                            Slope on SE = 1.19 (p 0.17)
+5                                                                                                                                                       
+6                                                                                                          PET intercept not significantly positive: PET
+7                              Relative probability of nonsignificant or negative estimates = 1.881; LR test vs. no selection: chi2(1) = 31.21, p <0.001
+8  Relative probability of nonsignificant positive estimates = 1.747, of negative estimates = 0.984; LR test vs. no selection: chi2(2) = 59.52, p <0.001
+9                                                                      0 estimates imputed on the left side; two-level model before imputation g = 0.089
+10                                                                                                        Range of 130 estimates, each without one trial
+11                                                                                                                                                      
+12                                                                                                                          CR2 standard errors by trial
+13                                                                                                        92 adequately powered estimates from 25 trials
+14                                                                                                                           Slope on SE = 0.95 (p 0.13)
+15                                                                                                                                                      
+16                                                                                                           PET intercept significantly positive: PEESE
+17                                Relative probability of nonsignificant or negative estimates = 1.251; LR test vs. no selection: chi2(1) = 2.01, p 0.16
+18 Relative probability of nonsignificant positive estimates = 1.207, of negative estimates = 0.593; LR test vs. no selection: chi2(2) = 14.79, p <0.001
+19                                                                     0 estimates imputed on the left side; two-level model before imputation g = 0.201
+20                                                                                                        Range of 115 estimates, each without one trial
+   sample                                 benchmark       g median_power
+1  C_full          Uncorrected random-effects model 0.12300       0.3720
+2  C_full Andrews and Kasy equation 2 (t), asym1645 0.00480       0.0505
+3  C_full  Andrews and Kasy equation 2 (t), asym196 0.01110       0.0525
+4  C_full Andrews and Kasy equation 2 (t), asymboth 0.00192       0.0501
+5  C_full                     Multilevel RoBMA-PSMA 0.02636       0.0641
+6  C_know          Uncorrected random-effects model 0.27825       0.8928
+7  C_know Andrews and Kasy equation 2 (t), asym1645 0.06521       0.1166
+8  C_know  Andrews and Kasy equation 2 (t), asym196 0.07222       0.1321
+9  C_know Andrews and Kasy equation 2 (t), asymboth 0.05539       0.0977
+10 C_know                     Multilevel RoBMA-PSMA 0.18904       0.5851
+   mean_power share_adequately_powered
+1      0.4388                 0.201465
+2      0.0525                 0.000000
+3      0.0616                 0.000916
+4      0.0504                 0.000000
+5      0.1021                 0.014652
+6      0.7477                 0.536748
+7      0.1616                 0.013363
+8      0.1838                 0.020045
+9      0.1329                 0.006682
+10     0.5735                 0.334076

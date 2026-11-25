@@ -1,0 +1,9 @@
+sample,benchmark,g
+C_full,"Andrews and Kasy equation 2 (t), asym1645",0.0047967409188759
+C_full,"Andrews and Kasy equation 2 (t), asym196",0.0111040268138957
+C_full,"Andrews and Kasy equation 2 (t), asymboth",0.0019179572627755
+C_know,"Andrews and Kasy equation 2 (t), asym1645",0.0652101757287687
+C_know,"Andrews and Kasy equation 2 (t), asym196",0.0722227238363448
+C_know,"Andrews and Kasy equation 2 (t), asymboth",0.0553901448199232
+C_full,Multilevel RoBMA-PSMA,0.0263579912048641
+C_know,Multilevel RoBMA-PSMA,0.18903764657679
