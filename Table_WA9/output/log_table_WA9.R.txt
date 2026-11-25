@@ -1,0 +1,72 @@
+  sample    spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 C_full sym1645        0.046          0.01 0.063  0.011     0.042     0.084
+  gmm_tau gmm_betas
+1    0.09      0.26
+  sample     spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 C_full asym1645        0.005         0.006 0.022   0.01     0.003     0.041
+  gmm_tau           gmm_betas
+1   0.087 0.143; 0.111; 0.202
+  sample   spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 C_full sym196        0.052         0.011 0.066   0.01     0.045     0.086
+  gmm_tau gmm_betas
+1   0.088     0.232
+  sample    spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 C_full asym196        0.011         0.009 0.025   0.01     0.006     0.044
+  gmm_tau           gmm_betas
+1    0.09 0.103; 0.094; 0.183
+  sample    spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 C_full symboth        0.046         0.011 0.058  0.011     0.037     0.078
+  gmm_tau   gmm_betas
+1   0.073 0.183; 0.46
+  sample     spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 C_full asymboth        0.002         0.005 0.017  0.009    -0.001     0.035
+  gmm_tau                        gmm_betas
+1   0.075 0.086; 0.102; 0.074; 0.136; 0.41
+  sample    spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 K_only sym1645        0.053         0.011  0.05  0.007     0.036     0.064
+  gmm_tau gmm_betas
+1   0.078      0.25
+  sample     spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 K_only asym1645        0.016         0.012 0.032  0.012     0.008     0.057
+  gmm_tau          gmm_betas
+1    0.08 0.42; 0.161; 0.234
+  sample   spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 K_only sym196        0.065         0.012 0.058   0.01     0.039     0.077
+  gmm_tau gmm_betas
+1   0.092     0.307
+  sample    spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 K_only asym196        0.029         0.016 0.035  0.018    -0.001     0.071
+  gmm_tau          gmm_betas
+1   0.096 0.162; 0.18; 0.262
+  sample    spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 K_only symboth        0.057         0.011 0.046  0.007     0.032     0.061
+  gmm_tau    gmm_betas
+1   0.071 0.206; 0.697
+  sample     spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 K_only asymboth        0.015         0.013 0.025  0.016    -0.006     0.056
+  gmm_tau                         gmm_betas
+1   0.072 0.137; 0.403; 0.114; 0.173; 0.568
+  sample    spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 C_know sym1645         0.16         0.019 0.127  0.027     0.073      0.18
+  gmm_tau gmm_betas
+1   0.182     0.272
+  sample       spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 C_know asym1645_3        0.084         0.024 0.071  0.032     0.008     0.135
+  gmm_tau    gmm_betas
+1   0.158 0.114; 0.205
+  sample   spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 C_know sym196        0.157         0.019 0.117  0.025     0.069     0.166
+  gmm_tau gmm_betas
+1    0.16     0.199
+  sample      spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 C_know asym196_3        0.076         0.026 0.067  0.028     0.012     0.121
+  gmm_tau    gmm_betas
+1   0.143 0.082; 0.161
+  sample    spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 C_know symboth        0.159         0.019 0.104  0.025     0.055     0.153
+  gmm_tau    gmm_betas
+1   0.149 0.165; 0.328
+  sample       spec parametric_g parametric_se gmm_g gmm_se gmm_ci_lo gmm_ci_hi
+1 C_know asymboth_3        0.067         0.029 0.051  0.026     0.001     0.101
+  gmm_tau           gmm_betas
+1   0.124 0.064; 0.119; 0.312
