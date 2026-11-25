@@ -333,6 +333,4 @@ including the papers and reports that do not enter the analyses; these records a
 - We gave the folders, scripts, and output files the numbering of this version of the paper after running the R scripts; the logs
   of the R scripts are those of our runs, under the new names. The Python scripts were run again after the renaming.
 
-## 9. Contact
 
-Daniel Fernandes, Católica Lisbon School of Business and Economics, daniel.fernandes@ucp.pt
