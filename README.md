@@ -1,7 +1,6 @@
 # Replication package
 
 **How Much Does Financial Education Change Behavior? Publication Bias and an Updated Meta-Analysis**
-Daniel Fernandes, John G. Lynch, Jr., and Lena Kim
 
 This package reproduces every table and figure of the paper and its web appendix that uses the meta-analytic data, except figure
 WA1 (section 7), and the other numbers reported in the text. Folders, scripts, and output files are named after the tables and
