@@ -1,0 +1,21 @@
+Behavior: 15 estimates with |Z| within 0.002 above a conventional threshold dropped in the sensitivity analysis
+Knowledge: 0 estimates with |Z| within 0.002 above a conventional threshold dropped in the sensitivity analysis
+  outcome                             data  threshold  bin_width  window bunching_region  observed  counterfactual  excess_mass  p_one_sided
+ Behavior                         Combined      1.645       0.05     0.4  [1.645, 1.695)        19            13.1         45.0        0.117
+ Behavior                         Combined      1.645       0.10     0.8  [1.645, 1.745)        33            26.7         23.5        0.173
+ Behavior                         Combined      1.960       0.05     0.4   [1.96, 2.010)        23            12.8         79.4        0.028
+ Behavior                         Combined      1.960       0.10     0.8   [1.96, 2.060)        35            24.1         45.5        0.043
+ Behavior                         Combined      1.960       0.40     3.2   [1.96, 2.360)        97            77.4         25.3        0.051
+ Behavior                         Combined      1.300       0.10     0.8    [1.3, 1.400)        23            24.8         -7.3        0.658
+ Behavior                         Combined      2.300       0.10     0.8    [2.3, 2.400)        24            19.2         24.8        0.170
+ Behavior Combined, excl. Z at a threshold      1.645       0.10     0.8  [1.645, 1.745)        28            26.2          6.7        0.384
+ Behavior Combined, excl. Z at a threshold      1.960       0.10     0.8   [1.96, 2.060)        32            23.2         38.0        0.072
+Knowledge                         Combined      1.645       0.05     0.4  [1.645, 1.695)         2             4.3        -53.1        0.926
+Knowledge                         Combined      1.645       0.10     0.8  [1.645, 1.745)         4             9.0        -55.4        0.973
+Knowledge                         Combined      1.960       0.05     0.4   [1.96, 2.010)         7             5.4         30.2        0.266
+Knowledge                         Combined      1.960       0.10     0.8   [1.96, 2.060)        10             9.1          9.6        0.389
+Knowledge                         Combined      1.960       0.40     3.2   [1.96, 2.360)        34            32.2          5.5        0.416
+Knowledge                         Combined      1.300       0.10     0.8    [1.3, 1.400)         5             7.5        -33.4        0.829
+Knowledge                         Combined      2.300       0.10     0.8    [2.3, 2.400)         4             7.4        -46.0        0.927
+Knowledge Combined, excl. Z at a threshold      1.645       0.10     0.8  [1.645, 1.745)         4             9.0        -55.4        0.973
+Knowledge Combined, excl. Z at a threshold      1.960       0.10     0.8   [1.96, 2.060)        10             9.1          9.6        0.389

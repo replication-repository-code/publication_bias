@@ -1,0 +1,7 @@
+All estimates: 1092 estimates (0 dropped)
+Without |Z| at a threshold (Table WA3): 1077 estimates (15 dropped)
+Without significance-derived standard errors: 1025 estimates (67 dropped)
+                                      sample  estimates  specifications  positive  p_below_10  p_below_05  min_excess  median_excess  max_excess  default_excess  default_p
+                               All estimates       1092              80        80          80          66       0.246          0.449       0.953           0.455      0.043
+      Without |Z| at a threshold (Table WA3)       1077              80        80          70          45       0.225          0.398       0.760           0.380      0.072
+Without significance-derived standard errors       1025              80        80          75          51       0.249          0.426       0.845           0.506      0.043
