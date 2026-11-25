@@ -1,0 +1,59 @@
+t        none        mu =  0.0594 (SE 0.0102)  logL = 545.28
+t        sym1645     mu =  0.0457 (SE 0.0097)  logL = 556.20
+t        asym1645    mu =  0.0048 (SE 0.0061)  logL = 619.55
+t        sym196      mu =  0.0516 (SE 0.0112)  logL = 547.57
+t        asym196     mu =  0.0111 (SE 0.0091)  logL = 603.94
+t        symboth     mu =  0.0455 (SE 0.0110)  logL = 556.21
+t        asymboth    mu =  0.0019 (SE 0.0052)  logL = 628.64
+normal   none        mu =  0.0886 (SE 0.0114)  logL = 382.66
+normal   sym1645     mu =  0.1087 (SE 0.0200)  logL = 399.78
+normal   asym1645    mu = -0.0047 (SE 0.0334)  logL = 443.18
+normal   sym196      mu =  0.1277 (SE 0.0243)  logL = 425.06
+normal   asym196     mu =  0.0147 (SE 0.0365)  logL = 464.17
+normal   symboth     mu =  0.1268 (SE 0.0250)  logL = 425.29
+normal   asymboth    mu = -0.0135 (SE 0.0433)  logL = 471.20
+   distribution               selection      g    SE   tau   df log_lik
+1             t            No selection  0.059 0.010 0.048 1.83  545.28
+2             t  Eq. 1 symmetric, 1.645  0.046 0.010 0.035 1.68  556.20
+3             t Eq. 2 asymmetric, 1.645  0.005 0.006 0.025 1.35  619.55
+4             t   Eq. 1 symmetric, 1.96  0.052 0.011 0.040 1.76  547.57
+5             t  Eq. 2 asymmetric, 1.96  0.011 0.009 0.029 1.42  603.94
+6             t   Eq. 1 symmetric, both  0.046 0.011 0.035 1.68  556.21
+7             t  Eq. 2 asymmetric, both  0.002 0.005 0.018 1.29  628.64
+8        normal            No selection  0.089 0.011 0.120   NA  382.66
+9        normal  Eq. 1 symmetric, 1.645  0.109 0.020 0.136   NA  399.78
+10       normal Eq. 2 asymmetric, 1.645 -0.005 0.033 0.174   NA  443.18
+11       normal   Eq. 1 symmetric, 1.96  0.128 0.024 0.148   NA  425.06
+12       normal  Eq. 2 asymmetric, 1.96  0.015 0.037 0.190   NA  464.17
+13       normal   Eq. 1 symmetric, both  0.127 0.025 0.148   NA  425.29
+14       normal  Eq. 2 asymmetric, both -0.013 0.043 0.198   NA  471.20
+   parameters     AIC vuong_z vuong_p_one_sided  best LR_t_vs_normal
+1           3 -1084.6    3.10          9.55e-04 FALSE          325.2
+2           4 -1104.4    2.96          1.53e-03 FALSE          312.9
+3           6 -1227.1    1.44          7.52e-02 FALSE          352.8
+4           4 -1087.1    3.10          9.61e-04 FALSE          245.0
+5           6 -1195.9    2.23          1.29e-02 FALSE          279.5
+6           5 -1102.4    2.96          1.52e-03 FALSE          261.8
+7           8 -1241.3      NA                NA  TRUE          314.9
+8           2  -761.3    3.22          6.38e-04 FALSE             NA
+9           3  -793.6    3.73          9.48e-05 FALSE             NA
+10          5  -876.4    3.84          6.21e-05 FALSE             NA
+11          3  -844.1    3.88          5.32e-05 FALSE             NA
+12          5  -918.3    4.12          1.92e-05 FALSE             NA
+13          4  -842.6    3.86          5.77e-05 FALSE             NA
+14          7  -928.4    4.00          3.13e-05 FALSE             NA
+   p_t_vs_normal
+1       5.23e-73
+2       2.61e-70
+3       5.33e-79
+4       1.58e-55
+5       4.72e-63
+6       3.41e-59
+7       9.41e-71
+8             NA
+9             NA
+10            NA
+11            NA
+12            NA
+13            NA
+14            NA
