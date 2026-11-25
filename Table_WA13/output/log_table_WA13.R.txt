@@ -1,0 +1,30 @@
+               model          mu mu_lo      mu_hi       tau       I2 BF_effect
+1 C_full_avg_default 0.006407319     0 0.06892996 0.1255973 87.46629    0.1673
+  BF_bias
+1    2418
+                  model        mu       mu_lo      mu_hi       tau       I2
+1 C_full_avg_nullnormal 0.0367872 -0.00766109 0.08349606 0.1242698 87.33275
+  BF_effect BF_bias
+1    0.1076    3946
+                model          mu mu_lo      mu_hi       tau       I2 BF_effect
+1 C_full_avg_effprior 0.007319651     0 0.07182125 0.1246366 87.37099    0.1881
+  BF_bias
+1    3487
+              model         mu mu_lo     mu_hi       tau I2 BF_effect BF_bias
+1 C_full_ml_default 0.02635799     0 0.0813965 0.1449218 NA     1.143 >179999
+               model          mu       mu_lo     mu_hi       tau       I2
+1 C_know_avg_default 0.005269176 -0.08267899 0.1284821 0.3422694 96.77813
+  BF_effect BF_bias
+1    0.2106 >149999
+                  model        mu       mu_lo     mu_hi       tau       I2
+1 C_know_avg_nullnormal 0.0257367 -0.09717903 0.1337697 0.3068453 95.67361
+  BF_effect BF_bias
+1    0.1984   74999
+                model          mu       mu_lo     mu_hi      tau       I2
+1 C_know_avg_effprior 0.006784149 -0.07213451 0.1312036 0.341121 96.74964
+  BF_effect BF_bias
+1    0.2138 >149999
+              model        mu     mu_lo     mu_hi       tau I2 BF_effect
+1 C_know_ml_default 0.1890376 0.1064318 0.2930154 0.2426304 NA   >179999
+  BF_bias
+1   11.38
