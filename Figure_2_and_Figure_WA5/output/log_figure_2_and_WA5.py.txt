@@ -1,0 +1,4 @@
+Figure 2, bins of 0.40: the bin (1.60, 2.00] holds 119 estimates (Kaiser et al. 57); the bins next to it hold 98 and 85 (Kaiser et al. 42 and 37); the tallest other bin holds 110 (Kaiser et al. 51)
+Figure 2: 1092 estimates (454 Kaiser et al., 638 newer); Z >= 1.96: 29.1% (Kaiser 31.3%, newer 27.6%); Z <= -1.96: 1.8% (Kaiser 1.5%, newer 2.0%)
+Figure WA5, bins of 0.40: the bin (1.60, 2.00] holds 36 estimates (Kaiser et al. 20); the bins next to it hold 30 and 31 (Kaiser et al. 11 and 15); the tallest other bin holds 39 (Kaiser et al. 21)
+Figure WA5: 449 estimates (214 Kaiser et al., 235 newer); Z >= 1.96: 49.0% (Kaiser 52.8%, newer 45.5%); Z <= -1.96: 0.4% (Kaiser 0.5%, newer 0.4%)
