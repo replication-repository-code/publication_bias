@@ -1,0 +1,133 @@
+                                            domain    dimension
+gBorrowing                                behavior      Outcome
+gSaving and investing                     behavior      Outcome
+gBudgeting and planning                   behavior      Outcome
+gOther behaviors and downstream outcomes  behavior      Outcome
+1                                         behavior Intervention
+2                                         behavior Intervention
+3                                         behavior Intervention
+4                                         behavior Intervention
+gLow-income                               behavior       Sample
+gGeneral population                       behavior       Sample
+gOther outlet                             behavior      Journal
+gTop economics journal                    behavior      Journal
+gClassroom                               knowledge Intervention
+gOnline                                  knowledge Intervention
+gLow-income1                             knowledge       Sample
+gGeneral population1                     knowledge       Sample
+11                                       knowledge      Journal
+21                                       knowledge      Journal
+                                                                           group
+gBorrowing                                                             Borrowing
+gSaving and investing                                       Saving and investing
+gBudgeting and planning                                   Budgeting and planning
+gOther behaviors and downstream outcomes Other behaviors and downstream outcomes
+1                                                                      Classroom
+2                                                                         Online
+3                                                                          Nudge
+4                                                                     Counseling
+gLow-income                                                           Low-income
+gGeneral population                                           General population
+gOther outlet                                                       Other outlet
+gTop economics journal                                     Top economics journal
+gClassroom                                                             Classroom
+gOnline                                                                   Online
+gLow-income1                                                          Low-income
+gGeneral population1                                          General population
+11                                                                  Other outlet
+21                                                         Top economics journal
+                                           k trials sig_negative_estimates
+gBorrowing                               253     47                     13
+gSaving and investing                    443     94                     13
+gBudgeting and planning                  173     54                      3
+gOther behaviors and downstream outcomes 223     58                      8
+1                                        590     75                     20
+2                                        234     26                     10
+3                                         34      9                      1
+4                                        149      9                      2
+gLow-income                              639     70                     26
+gGeneral population                      453     60                     11
+gOther outlet                            890    112                     25
+gTop economics journal                   202     19                     12
+gClassroom                               174     63                      1
+gOnline                                  226     41                      1
+gLow-income1                             169     51                      0
+gGeneral population1                     280     64                      4
+11                                       400    105                      4
+21                                        49     10                      0
+                                         sig_negative_trials        g      se
+gBorrowing                                                 6 -0.00375 0.00505
+gSaving and investing                                      9  0.02387 0.01485
+gBudgeting and planning                                    3  0.03313 0.01857
+gOther behaviors and downstream outcomes                   6  0.01308 0.02091
+1                                                         10  0.00784 0.00909
+2                                                          4  0.00164 0.01765
+3                                                          1 -0.01105 0.00780
+4                                                          1  0.01741 0.01681
+gLow-income                                               11  0.01412 0.01203
+gGeneral population                                        8  0.00260 0.00586
+gOther outlet                                             16  0.00586 0.00596
+gTop economics journal                                     3 -0.01408 0.01269
+gClassroom                                                 1  0.09704 0.02616
+gOnline                                                    1  0.07727 0.04490
+gLow-income1                                               0  0.07648 0.02405
+gGeneral population1                                       3  0.08833 0.03376
+11                                                         3  0.08909 0.02910
+21                                                         0  0.06541 0.03175
+                                               lo      hi
+gBorrowing                               -0.01365 0.00616
+gSaving and investing                    -0.00524 0.05297
+gBudgeting and planning                  -0.00326 0.06953
+gOther behaviors and downstream outcomes -0.02790 0.05406
+1                                        -0.00998 0.02566
+2                                        -0.03295 0.03624
+3                                        -0.02634 0.00423
+4                                        -0.01554 0.05036
+gLow-income                              -0.00947 0.03770
+gGeneral population                      -0.00888 0.01408
+gOther outlet                            -0.00583 0.01755
+gTop economics journal                   -0.03895 0.01079
+gClassroom                                0.04576 0.14831
+gOnline                                  -0.01073 0.16527
+gLow-income1                              0.02935 0.12361
+gGeneral population1                      0.02215 0.15450
+11                                        0.03206 0.14611
+21                                        0.00319 0.12764
+                                                             common_probabilities_SE
+gBorrowing                               0.144 (0.053); 0.221 (0.085); 0.368 (0.102)
+gSaving and investing                    0.144 (0.053); 0.221 (0.085); 0.368 (0.102)
+gBudgeting and planning                  0.144 (0.053); 0.221 (0.085); 0.368 (0.102)
+gOther behaviors and downstream outcomes 0.144 (0.053); 0.221 (0.085); 0.368 (0.102)
+1                                        0.107 (0.036); 0.169 (0.054); 0.323 (0.077)
+2                                        0.107 (0.036); 0.169 (0.054); 0.323 (0.077)
+3                                        0.107 (0.036); 0.169 (0.054); 0.323 (0.077)
+4                                        0.107 (0.036); 0.169 (0.054); 0.323 (0.077)
+gLow-income                              0.121 (0.033); 0.186 (0.050); 0.333 (0.070)
+gGeneral population                      0.121 (0.033); 0.186 (0.050); 0.333 (0.070)
+gOther outlet                            0.094 (0.029); 0.145 (0.040); 0.287 (0.060)
+gTop economics journal                   0.094 (0.029); 0.145 (0.040); 0.287 (0.060)
+gClassroom                                              0.279 (0.114); 0.571 (0.131)
+gOnline                                                 0.279 (0.114); 0.571 (0.131)
+gLow-income1                                            0.303 (0.110); 0.553 (0.113)
+gGeneral population1                                    0.303 (0.110); 0.553 (0.113)
+11                                                      0.311 (0.115); 0.560 (0.119)
+21                                                      0.311 (0.115); 0.560 (0.119)
+                                          logL     AIC conv
+gBorrowing                               633.1 -1248.2    0
+gSaving and investing                    633.1 -1248.2    0
+gBudgeting and planning                  633.1 -1248.2    0
+gOther behaviors and downstream outcomes 633.1 -1248.2    0
+1                                        560.7 -1103.5    0
+2                                        560.7 -1103.5    0
+3                                        560.7 -1103.5    0
+4                                        560.7 -1103.5    0
+gLow-income                              621.8 -1229.5    0
+gGeneral population                      621.8 -1229.5    0
+gOther outlet                            624.1 -1234.2    0
+gTop economics journal                   624.1 -1234.2    0
+gClassroom                                41.1   -70.2    0
+gOnline                                   41.1   -70.2    0
+gLow-income1                              32.8   -53.7    0
+gGeneral population1                      32.8   -53.7    0
+11                                        33.0   -54.1    0
+21                                        33.0   -54.1    0
