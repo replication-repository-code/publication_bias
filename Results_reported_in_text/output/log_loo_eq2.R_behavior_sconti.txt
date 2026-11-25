@@ -1,0 +1,4 @@
+behavior_sconti: 3 fits in 1.1 min
+asym1645  full mu = 0.0048 | leave-one-trial-out range 0.0047 to 0.0047 (min when leaving out U-P081, max when leaving out U-P081) | nonconverged 0
+asym196   full mu = 0.0111 | leave-one-trial-out range 0.0111 to 0.0111 (min when leaving out U-P081, max when leaving out U-P081) | nonconverged 0
+asymboth  full mu = 0.0019 | leave-one-trial-out range 0.0019 to 0.0019 (min when leaving out U-P081, max when leaving out U-P081) | nonconverged 0

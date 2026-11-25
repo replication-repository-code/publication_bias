@@ -1,0 +1,79 @@
+      model BF_effect post_prob_effect BF_heterogeneity BF_bias         mu
+1 C_full ml     1.143        0.5334056          >179999 >179999 0.02635799
+  mu_lo     mu_hi mu_q25     mu_q75       tau    tau_lo    tau_hi       rho
+1     0 0.0813965      0 0.05026413 0.1449218 0.1273163 0.1665422 0.5764929
+     rho_lo    rho_hi I2   mu_ESS  mu_Rhat n_draws
+1 0.4489771 0.6920064 NA 358.4536 1.011978  180000
+       model BF_effect post_prob_effect BF_heterogeneity BF_bias          mu
+1 C_full avg    0.1673        0.1433467          >149999    2418 0.006407319
+  mu_lo      mu_hi mu_q25 mu_q75       tau     tau_lo    tau_hi rho rho_lo
+1     0 0.06892996      0      0 0.1255973 0.09884126 0.1828441  NA     NA
+  rho_hi       I2   mu_ESS  mu_Rhat n_draws
+1     NA 87.46629 4800.133 1.000489  150000
+      model BF_effect post_prob_effect BF_heterogeneity BF_bias          mu
+1 K_only ml    0.1323        0.1168778          >179999   176.5 0.005406043
+  mu_lo      mu_hi mu_q25 mu_q75       tau    tau_lo    tau_hi       rho
+1     0 0.07060128      0      0 0.1128387 0.0953183 0.1350593 0.4574756
+     rho_lo    rho_hi I2   mu_ESS mu_Rhat n_draws
+1 0.2656699 0.6422181 NA 558.2127 1.01451  180000
+       model BF_effect post_prob_effect BF_heterogeneity BF_bias          mu
+1 K_only avg    0.1132        0.1016733             7.45   408.8 0.003697076
+  mu_lo     mu_hi mu_q25 mu_q75        tau tau_lo     tau_hi rho rho_lo rho_hi
+1     0 0.0544478      0      0 0.04930425      0 0.09360809  NA     NA     NA
+        I2   mu_ESS  mu_Rhat n_draws
+1 48.66747 2778.159 1.001658  150000
+      model BF_effect post_prob_effect BF_heterogeneity BF_bias        mu
+1 C_know ml   >179999                1          >179999   11.38 0.1890376
+      mu_lo     mu_hi    mu_q25    mu_q75       tau    tau_lo    tau_hi
+1 0.1064318 0.2930154 0.1567536 0.2170245 0.2426304 0.2078222 0.2846096
+        rho    rho_lo    rho_hi I2   mu_ESS  mu_Rhat n_draws
+1 0.7708839 0.6665972 0.8537133 NA 1534.064 1.001759  180000
+       model BF_effect post_prob_effect BF_heterogeneity BF_bias          mu
+1 C_know avg    0.2106        0.1739867          >149999 >149999 0.005269176
+        mu_lo     mu_hi mu_q25 mu_q75       tau    tau_lo    tau_hi rho rho_lo
+1 -0.08267899 0.1284821      0      0 0.3422694 0.1999298 0.4258338  NA     NA
+  rho_hi       I2   mu_ESS  mu_Rhat n_draws
+1     NA 96.77813 5407.423 1.003629  150000
+      model BF_effect post_prob_effect BF_heterogeneity BF_bias        mu mu_lo
+1 K_know ml     5.999        0.8571222          >179999   10.27 0.1269702     0
+      mu_hi     mu_q25    mu_q75       tau   tau_lo    tau_hi       rho
+1 0.2299328 0.08829377 0.1780137 0.1695039 0.139866 0.2113426 0.5033373
+     rho_lo    rho_hi I2   mu_ESS  mu_Rhat n_draws
+1 0.2802131 0.7063455 NA 649.1848 1.001034  180000
+       model BF_effect post_prob_effect BF_heterogeneity BF_bias         mu
+1 K_know avg    0.5333        0.3478267          >149999   29.08 0.04236433
+         mu_lo     mu_hi mu_q25     mu_q75       tau    tau_lo    tau_hi rho
+1 -0.005965955 0.2134529      0 0.09206375 0.2178482 0.1333231 0.3002832  NA
+  rho_lo rho_hi       I2   mu_ESS  mu_Rhat n_draws
+1     NA     NA 94.14409 3921.072 1.001904  150000
+    model BF_effect post_prob_effect BF_heterogeneity BF_bias         mu mu_lo
+1 C_R3 ml    0.7674        0.4342056          >179999   89999 0.02382043     0
+       mu_hi mu_q25     mu_q75       tau    tau_lo    tau_hi       rho
+1 0.09954384      0 0.04754631 0.1419261 0.1205747 0.1698647 0.6465782
+     rho_lo    rho_hi I2   mu_ESS  mu_Rhat n_draws
+1 0.5071643 0.7620344 NA 244.5471 1.021302  180000
+     model BF_effect post_prob_effect BF_heterogeneity BF_bias          mu
+1 C_R3 avg    0.1213          0.10816          >149999    3260 0.004630547
+  mu_lo      mu_hi mu_q25 mu_q75       tau    tau_lo    tau_hi rho rho_lo
+1     0 0.06245815      0      0 0.1382853 0.1095628 0.1754281  NA     NA
+  rho_hi       I2   mu_ESS  mu_Rhat n_draws
+1     NA 89.30467 7195.455 1.001499  150000
+         model BF_effect post_prob_effect BF_heterogeneity BF_bias       mu
+1 C_knowobj ml   >179999                1          >179999   31.35 0.176431
+      mu_lo     mu_hi    mu_q25    mu_q75       tau    tau_lo    tau_hi
+1 0.0962099 0.2798944 0.1459281 0.2027519 0.2286121 0.1926606 0.2721675
+        rho    rho_lo    rho_hi I2   mu_ESS  mu_Rhat n_draws
+1 0.7322849 0.5895279 0.8392306 NA 2058.772 1.000281  180000
+      model BF_effect post_prob_effect BF_heterogeneity BF_bias         mu
+1 C_noR6 ml     1.193        0.5440167          >179999 >179999 0.02844858
+  mu_lo     mu_hi mu_q25     mu_q75       tau    tau_lo   tau_hi       rho
+1     0 0.0977914      0 0.05196235 0.1409061 0.1229632 0.166564 0.5613578
+    rho_lo    rho_hi I2   mu_ESS  mu_Rhat n_draws
+1 0.426061 0.6885334 NA 309.5702 1.022181  180000
+        model BF_effect post_prob_effect BF_heterogeneity BF_bias         mu
+1 C_noR5R6 ml     2.236        0.6909667          >179999 >179999 0.05368047
+  mu_lo     mu_hi mu_q25     mu_q75       tau    tau_lo    tau_hi       rho
+1     0 0.1215306      0 0.09305415 0.1549928 0.1288078 0.1895548 0.6072092
+     rho_lo    rho_hi I2   mu_ESS  mu_Rhat n_draws
+1 0.4672712 0.7254196 NA 169.5315 1.049035  180000
+There were 12 warnings (use warnings() to see them)

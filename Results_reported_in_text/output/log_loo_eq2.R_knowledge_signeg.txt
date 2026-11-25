@@ -1,0 +1,4 @@
+knowledge_signeg: 9 fits in 1.2 min
+asym1645  full mu = 0.0652 | leave-one-trial-out range 0.0663 to 0.0750 (min when leaving out K13, max when leaving out U-P026) | nonconverged 0
+asym196   full mu = 0.0722 | leave-one-trial-out range 0.0731 to 0.0862 (min when leaving out K13, max when leaving out U-P026) | nonconverged 0
+asymboth  full mu = 0.0554 | leave-one-trial-out range 0.0566 to 0.0661 (min when leaving out K13, max when leaving out U-P026) | nonconverged 0

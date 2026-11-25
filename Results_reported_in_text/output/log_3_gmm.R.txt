@@ -1,0 +1,12 @@
+  sample    spec      gmm_g     gmm_se
+1   C_R3 sym1645 0.06395643 0.01156527
+  sample     spec      gmm_g      gmm_se
+1   C_R3 asym1645 0.02717938 0.009414864
+  sample   spec      gmm_g     gmm_se
+1   C_R3 sym196 0.06510306 0.01106904
+  sample    spec      gmm_g      gmm_se
+1   C_R3 asym196 0.02749813 0.009744914
+  sample    spec      gmm_g     gmm_se
+1   C_R3 symboth 0.05861728 0.01138722
+  sample     spec     gmm_g      gmm_se
+1   C_R3 asymboth 0.0216173 0.009506859

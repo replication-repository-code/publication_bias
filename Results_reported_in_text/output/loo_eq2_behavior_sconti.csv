@@ -1,0 +1,4 @@
+"sample","spec","left_out","n_left_out","sig_neg_10_left_out","mu","tau","df_t","betas","logL","conv","message"
+"behavior_sconti","asym1645","U-P081",5,0,0.00467015196437999,0.0252161819288118,1.34958826236703,"0.108; 0.163; 0.307",619.656997006489,0,"relative convergence (4)"
+"behavior_sconti","asym196","U-P081",5,0,0.0110802525467424,0.0288950624610612,1.41588404127028,"0.092; 0.187; 0.360",603.630082977838,0,"relative convergence (4)"
+"behavior_sconti","asymboth","U-P081",5,0,0.00185694962714422,0.017816795666792,1.28313738719425,"0.068; 0.124; 0.110; 0.215; 0.591",628.646112668983,0,"relative convergence (4)"

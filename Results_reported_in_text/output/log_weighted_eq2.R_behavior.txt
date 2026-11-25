@@ -1,0 +1,24 @@
+    sample spec               weighting        mu      se_mu         lo
+1 behavior none each trial counted once 0.0865207 0.01234922 0.06231622
+         hi        tau     df_t betas se_betas conv unweighted_mu
+1 0.1107252 0.06990939 1.666518                   0    0.05939558
+  unweighted_se_mu
+1       0.01020977
+    sample     spec               weighting          mu       se_mu          lo
+1 behavior asym1645 each trial counted once 0.003749986 0.007372638 -0.01070039
+          hi        tau     df_t               betas            se_betas conv
+1 0.01820036 0.03706602 1.265463 0.088; 0.130; 0.275 0.034; 0.034; 0.061    0
+  unweighted_mu unweighted_se_mu
+1   0.004796743       0.00605432
+    sample    spec               weighting          mu       se_mu           lo
+1 behavior asym196 each trial counted once 0.009224207 0.008200908 -0.006849573
+          hi        tau    df_t               betas            se_betas conv
+1 0.02529799 0.03062493 1.24657 0.079; 0.111; 0.242 0.039; 0.044; 0.085    0
+  unweighted_mu unweighted_se_mu
+1    0.01110403       0.00912493
+    sample     spec               weighting           mu       se_mu
+1 behavior asymboth each trial counted once 0.0008001809 0.005639687
+           lo         hi        tau     df_t                             betas
+1 -0.01025361 0.01185397 0.02027428 1.162493 0.063; 0.078; 0.073; 0.159; 0.441
+                           se_betas conv unweighted_mu unweighted_se_mu
+1 0.031; 0.036; 0.027; 0.051; 0.117    0    0.00191796      0.005247023

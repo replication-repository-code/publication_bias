@@ -1,0 +1,5 @@
+behavior_targeted: 90 fits in 38.7 min
+asym1645  full mu = 0.0048 | leave-one-trial-out range 0.0023 to 0.0081 (min when leaving out U-P038, max when leaving out U-P054) | nonconverged 0
+asym196   full mu = 0.0111 | leave-one-trial-out range 0.0083 to 0.0176 (min when leaving out U-P038, max when leaving out K47) | nonconverged 0
+asymboth  full mu = 0.0019 | leave-one-trial-out range -0.0002 to 0.0051 (min when leaving out U-P038, max when leaving out U-P054) | nonconverged 1
+Refit of asymboth without U-P088 with fit_t (fallback for the one fit without a convergence code): mu = 0.001591, logL = 627.8487, conv = 0 (same maximum)
