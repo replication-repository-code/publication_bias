@@ -1,0 +1,14 @@
+                    group   k n_signeg re_mu    ak_spec  ak_mu  ak_se
+1 Intervention: classroom 174        1 0.259 asym1645_3 0.0597 0.0224
+                 group   k n_signeg re_mu    ak_spec ak_mu  ak_se
+1 Intervention: online 226        1 0.332 asym1645_3 0.133 0.0404
+               group   k n_signeg re_mu    ak_spec ak_mu  ak_se
+1 Sample: low-income 169        0 0.215 asym1645_3 0.134 0.0273
+                       group   k n_signeg re_mu    ak_spec  ak_mu  ak_se
+1 Sample: general population 280        4 0.328 asym1645_3 0.0576 0.0261
+                   group  k n_signeg re_mu    ak_spec ak_mu  ak_se
+1 Journal: top economics 49        0 0.249 asym1645_3 0.124 0.0336
+           group   k n_signeg re_mu    ak_spec  ak_mu  ak_se
+1 Journal: other 400        4 0.281 asym1645_3 0.0815 0.0276
+  group   k n_signeg re_mu    ak_spec  ak_mu  ak_se
+1   All 449        4 0.278 asym1645_3 0.0844 0.0241
