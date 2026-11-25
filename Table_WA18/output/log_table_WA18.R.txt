@@ -1,0 +1,29 @@
+t        none        mu =  0.1548 (SE 0.0209)  logL = 20.99
+t        sym1645     mu =  0.1600 (SE 0.0187)  logL = 21.18
+t        asym1645    mu =  0.0652 (SE 0.0213)  logL = 52.65
+t        sym196      mu =  0.1569 (SE 0.0189)  logL = 21.01
+t        asym196     mu =  0.0722 (SE 0.0229)  logL = 52.02
+t        symboth     mu =  0.1585 (SE 0.0190)  logL = 21.22
+t        asymboth    mu =  0.0554 (SE 0.0220)  logL = 55.10
+normal   none        mu =  0.2006 (SE 0.0270)  logL = -25.39
+normal   sym1645     mu =  0.2316 (SE 0.0287)  logL = -18.28
+normal   asym1645    mu = -0.0992 (SE 0.1155)  logL = 18.30
+normal   sym196      mu =  0.2379 (SE 0.0306)  logL = -17.34
+normal   asym196     mu = -0.0511 (SE 0.0984)  logL = 15.03
+normal   symboth     mu =  0.2396 (SE 0.0306)  logL = -16.85
+normal   asymboth    mu = -0.1328 (SE 0.1276)  logL = 21.26
+                           model log_likelihood    AIC     g    SE
+none                No selection          20.99 -35.97 0.155 0.021
+sym1645   Eq. 1 symmetric, 1.645          21.18 -34.35 0.160 0.019
+asym1645 Eq. 2 asymmetric, 1.645          52.65 -93.31 0.065 0.021
+sym196     Eq. 1 symmetric, 1.96          21.01 -34.02 0.157 0.019
+asym196   Eq. 2 asymmetric, 1.96          52.02 -92.04 0.072 0.023
+symboth    Eq. 1 symmetric, both          21.22 -32.43 0.159 0.019
+asymboth  Eq. 2 asymmetric, both          55.10 -94.19 0.055 0.022
+   model cutoffs LR_eq2_vs_eq1 df         p
+1      t   1.645         62.96  2 2.133e-14
+2      t    1.96         62.02  2 3.403e-14
+3      t    both         67.76  3 1.286e-14
+4 normal   1.645         73.15  2 1.303e-16
+5 normal    1.96         64.74  2 8.767e-15
+6 normal    both         76.22  3 1.980e-16

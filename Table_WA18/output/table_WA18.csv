@@ -1,0 +1,8 @@
+"model","log_likelihood","AIC","g","SE"
+"No selection",20.99,-35.97,0.155,0.021
+"Eq. 1 symmetric, 1.645",21.18,-34.35,0.16,0.019
+"Eq. 2 asymmetric, 1.645",52.65,-93.31,0.065,0.021
+"Eq. 1 symmetric, 1.96",21.01,-34.02,0.157,0.019
+"Eq. 2 asymmetric, 1.96",52.02,-92.04,0.072,0.023
+"Eq. 1 symmetric, both",21.22,-32.43,0.159,0.019
+"Eq. 2 asymmetric, both",55.1,-94.19,0.055,0.022
