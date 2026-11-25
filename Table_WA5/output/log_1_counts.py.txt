@@ -1,0 +1,5 @@
+   domain                     source  papers  trials  estimates  share_Z_ge_1_96  share_Z_lt_0  share_Z_le_minus_1_96
+ behavior    Working paper or report      24      21        229            0.275         0.175                  0.000
+ behavior Journal article or chapter      53      50        409            0.276         0.286                  0.032
+knowledge    Working paper or report      17      15         45            0.400         0.244                  0.000
+knowledge Journal article or chapter      53      52        190            0.468         0.179                  0.005

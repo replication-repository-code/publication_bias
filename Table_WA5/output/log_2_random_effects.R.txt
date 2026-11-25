@@ -1,0 +1,8 @@
+               domain published   k trials     g     lo    hi
+behavior 1   behavior         1 409     50 0.157 0.1011 0.212
+behavior 0   behavior         0 229     21 0.124 0.0613 0.187
+knowledge 1 knowledge         1 190     52 0.358 0.2600 0.455
+knowledge 0 knowledge         0  45     15 0.236 0.1155 0.356
+             domain difference_journal_minus_wp se_CR2 p_Satterthwaite
+behavior   behavior                      0.0293 0.0198           0.215
+knowledge knowledge                      0.1066 0.0746           0.167

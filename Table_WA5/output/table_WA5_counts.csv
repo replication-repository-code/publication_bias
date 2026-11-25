@@ -1,0 +1,5 @@
+domain,source,papers,trials,estimates,share_Z_ge_1_96,share_Z_lt_0,share_Z_le_minus_1_96
+behavior,Working paper or report,24,21,229,0.27510917030567683,0.17467248908296942,0.0
+behavior,Journal article or chapter,53,50,409,0.2762836185819071,0.2860635696821516,0.03178484107579462
+knowledge,Working paper or report,17,15,45,0.4,0.24444444444444444,0.0
+knowledge,Journal article or chapter,53,52,190,0.46842105263157896,0.17894736842105263,0.005263157894736842
