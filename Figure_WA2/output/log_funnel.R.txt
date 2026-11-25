@@ -1,0 +1,5 @@
+       sample trials    z        p est_avg
+C_full C_full    130 3.73 1.90e-04  0.1314
+K_only K_only     64 5.01 5.45e-07  0.0931
+C_know C_know    115 5.27 1.34e-07  0.2755
+K_know K_know     50 2.72 6.49e-03  0.2070
