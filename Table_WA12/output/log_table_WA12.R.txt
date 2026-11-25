@@ -1,0 +1,29 @@
+   effect heterogeneity                            bias prior_prob n_draws
+32    Yes           Yes                             PET 0.03125000   94096
+31     No           Yes                             PET 0.03125000   83987
+24    Yes           Yes       omega[one-sided: .05, .5] 0.01041667     929
+36    Yes           Yes                           PEESE 0.03125000     918
+28    Yes           Yes omega[one-sided: .025, .05, .5] 0.01041667      70
+      post_prob mean_loglik post_odds_ratio  BF_vs_best
+32 0.5227555556    486.0848     16.72817778 1.000000000
+31 0.4665944444    482.0314     14.93102222 0.892567165
+24 0.0051611111    481.9654      0.49546667 0.029618687
+36 0.0051000000    479.4963      0.16320000 0.009755994
+28 0.0003888889    482.8130      0.03733333 0.002231763
+   effect heterogeneity                            bias prior_prob n_draws
+31     No           Yes                             PET 0.03125000  123719
+32    Yes           Yes                             PET 0.03125000   20262
+23     No           Yes       omega[one-sided: .05, .5] 0.01041667    3625
+27     No           Yes omega[one-sided: .025, .05, .5] 0.01041667    1154
+36    Yes           Yes                           PEESE 0.03125000     545
+     post_prob mean_loglik post_odds_ratio  BF_vs_best
+31 0.824793333    37.49739      26.3933867 1.000000000
+32 0.135080000    38.26646       4.3225600 0.163774360
+23 0.024166667    34.45604       2.3200000 0.087900807
+27 0.007693333    33.87875       0.7385600 0.027982767
+36 0.003633333    34.00189       0.1162667 0.004405144
+Warning messages:
+1: Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+ 
+2: Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+ 
