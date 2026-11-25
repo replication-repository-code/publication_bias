@@ -1,0 +1,10 @@
+                    outcome_class Kaiser et al. (2022): estimates (studies)           Newer trials: estimates (trials)
+            A: Financial behavior                                  454 (64)                                   455 (64)
+              A: Decision quality                                         -                                     13 (5)
+          A: Financial well-being                                         -                                    60 (15)
+             A: Economic outcomes                                         -                                    36 (14)
+                    A: Mechanisms                                         -                                    74 (24)
+                         A: Total                                  454 (64) 638 (69), of which 66 not in Kaiser et al.
+ B: Objective financial knowledge                                  214 (50)                                   150 (57)
+B: Subjective financial knowledge                                         -                                    85 (29)
+                         B: Total                                  214 (50)                                   235 (67)
