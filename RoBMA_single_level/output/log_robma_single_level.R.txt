@@ -1,0 +1,18 @@
+                   model BF_effect post_prob_effect BF_heterogeneity BF_bias
+1 kaiser_raw unclustered     8.294           0.8924           >14999   257.6
+          mu mu_lo      mu_hi     mu_q25     mu_q75        tau     tau_lo
+1 0.04049591     0 0.07392618 0.03237223 0.05228696 0.09766874 0.08433772
+     tau_hi rho rho_lo rho_hi       I2   mu_ESS  mu_Rhat n_draws mu_conditional
+1 0.1235406  NA     NA     NA 83.00123 196.0215 1.031558   15000     0.04537866
+               model BF_effect post_prob_effect BF_heterogeneity BF_bias
+1 K_only unclustered     17.77        0.9467333           >14999     599
+          mu mu_lo      mu_hi     mu_q25     mu_q75        tau     tau_lo
+1 0.04077972     0 0.06862116 0.03351662 0.04992639 0.09573834 0.08397076
+     tau_hi rho rho_lo rho_hi       I2   mu_ESS  mu_Rhat n_draws mu_conditional
+1 0.1102375  NA     NA     NA 82.62759 607.8345 1.026961   15000     0.04307414
+               model BF_effect post_prob_effect BF_heterogeneity BF_bias
+1 C_full unclustered     13.69        0.9319333           >14999  >14999
+          mu mu_lo      mu_hi     mu_q25    mu_q75       tau    tau_lo   tau_hi
+1 0.02529203     0 0.04177974 0.02065777 0.0318411 0.1127819 0.1050865 0.120759
+  rho rho_lo rho_hi      I2   mu_ESS  mu_Rhat n_draws mu_conditional
+1  NA     NA     NA 91.6242 955.8422 1.044415   15000     0.02713932
