@@ -1,0 +1,7 @@
+outcome,specification,estimate,rank,of,percentile
+behavior,"Eq. 2, Z = ±1.645, ±1.96, 0; t true effects",0.0019179572627755,7,59,10.16949152542373
+behavior,"Eq. 2, Z = −1.645, 0, 1.645; t true effects",0.0047967409188759,12,59,18.64406779661017
+behavior,"Eq. 2, Z = −1.96, 0, 1.96; t true effects",0.0111040268138957,18,59,28.8135593220339
+knowledge,"Eq. 2, Z = ±1.645, ±1.96, 0; t true effects",0.0553901448199232,14,59,22.033898305084744
+knowledge,"Eq. 2, Z = −1.645, 0, 1.645; t true effects",0.0652101757287687,15,59,23.728813559322035
+knowledge,"Eq. 2, Z = −1.96, 0, 1.96; t true effects",0.0722227238363448,18,59,28.8135593220339

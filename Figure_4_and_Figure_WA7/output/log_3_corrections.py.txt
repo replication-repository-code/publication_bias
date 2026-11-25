@@ -1,0 +1,29 @@
+sample                          method      g     se      lo     hi     df  n_estimates  n_trials  rule  k0 side
+C_full                            UWLS 0.0276 0.0234 -0.2150 0.2701 1.0963          NaN       NaN   NaN NaN  NaN
+C_full                            WAAP 0.0048 0.0123 -0.1345 0.1440 1.0515         17.0       4.0   NaN NaN  NaN
+C_full                             PET 0.0038 0.0204 -0.2215 0.2291 1.0638          NaN       NaN   NaN NaN  NaN
+C_full                           PEESE 0.0224 0.0219 -0.2069 0.2516 1.0903          NaN       NaN   NaN NaN  NaN
+C_full                       PET-PEESE 0.0038 0.0204 -0.2215 0.2291 1.0638          NaN       NaN   PET NaN  NaN
+C_full                   Trim-and-fill 0.0886 0.0045  0.0798 0.0975    NaN          NaN       NaN   NaN 0.0 left
+C_full Two-level random effects (REML) 0.0886 0.0045  0.0798 0.0975    NaN          NaN       NaN   NaN NaN  NaN
+K_only                            UWLS 0.0528 0.0117 -0.0155 0.1211 1.5282          NaN       NaN   NaN NaN  NaN
+K_only                            WAAP 0.0344 0.0062 -0.0443 0.1131 1.0000         27.0       2.0   NaN NaN  NaN
+K_only                             PET 0.0208 0.0079 -0.0537 0.0953 1.1503          NaN       NaN   NaN NaN  NaN
+K_only                           PEESE 0.0426 0.0084 -0.0170 0.1022 1.3457          NaN       NaN   NaN NaN  NaN
+K_only                       PET-PEESE 0.0208 0.0079 -0.0537 0.0953 1.1503          NaN       NaN   PET NaN  NaN
+K_only                   Trim-and-fill 0.0845 0.0059  0.0730 0.0961    NaN          NaN       NaN   NaN 0.0 left
+K_only Two-level random effects (REML) 0.0845 0.0059  0.0730 0.0961    NaN          NaN       NaN   NaN NaN  NaN
+C_know                            UWLS 0.1566 0.0132  0.1206 0.1926 4.1534          NaN       NaN   NaN NaN  NaN
+C_know                            WAAP 0.1469 0.0155  0.1008 0.1930 3.4275         92.0      25.0   NaN NaN  NaN
+C_know                             PET 0.1049 0.0294 -0.0067 0.2165 2.3048          NaN       NaN   NaN NaN  NaN
+C_know                           PEESE 0.1383 0.0153  0.0940 0.1826 3.6141          NaN       NaN   NaN NaN  NaN
+C_know                       PET-PEESE 0.1383 0.0153  0.0940 0.1826 3.6141          NaN       NaN PEESE NaN  NaN
+C_know                   Trim-and-fill 0.2006 0.0111  0.1789 0.2223    NaN          NaN       NaN   NaN 0.0 left
+C_know Two-level random effects (REML) 0.2006 0.0111  0.1789 0.2223    NaN          NaN       NaN   NaN NaN  NaN
+K_know                            UWLS 0.1580 0.0106  0.1183 0.1978 2.3472          NaN       NaN   NaN NaN  NaN
+K_know                            WAAP 0.1568 0.0079  0.1236 0.1901 2.0475         67.0      17.0   NaN NaN  NaN
+K_know                             PET 0.1256 0.0189 -0.0027 0.2538 1.3838          NaN       NaN   NaN NaN  NaN
+K_know                           PEESE 0.1434 0.0113  0.0922 0.1946 1.8975          NaN       NaN   NaN NaN  NaN
+K_know                       PET-PEESE 0.1434 0.0113  0.0922 0.1946 1.8975          NaN       NaN PEESE NaN  NaN
+K_know                   Trim-and-fill 0.1771 0.0122  0.1533 0.2009    NaN          NaN       NaN   NaN 0.0 left
+K_know Two-level random effects (REML) 0.1771 0.0122  0.1533 0.2009    NaN          NaN       NaN   NaN NaN  NaN

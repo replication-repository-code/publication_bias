@@ -1,0 +1,45 @@
+  outcome                                                 subset  specifications  median    q25   q75    min   max  share_interval_excludes_zero  share_below_uncorrected  share_below_half_uncorrected  share_interval_below_uncorrected  share_interval_below_0_10
+ behavior                           All corrected specifications            59.0   0.029  0.008 0.053 -0.056 0.128                         0.424                    0.932                         0.695                             0.712                      0.746
+ behavior      Without Andrews and Kasy with normal true effects            47.0   0.029  0.011 0.050  0.001 0.089                         0.404                    1.000                         0.745                             0.809                      0.851
+ behavior                   Data: K_only (uncorrected g = 0.092)            27.0   0.035  0.018 0.055 -0.056 0.105                         0.444                    0.926                         0.556                             0.630                      0.704
+ behavior                   Data: C_full (uncorrected g = 0.123)            32.0   0.022  0.006 0.047 -0.013 0.128                         0.406                    0.938                         0.812                             0.781                      0.781
+ behavior Correction: Andrews and Kasy, normal true effects (ML)            12.0   0.050 -0.007 0.106 -0.056 0.128                         0.500                    0.667                         0.500                             0.333                      0.333
+ behavior      Correction: Andrews and Kasy, t true effects (ML)            15.0   0.016  0.007 0.049  0.001 0.065                         0.400                    1.000                         0.800                             1.000                      1.000
+ behavior                                 Correction: RoBMA-PSMA             6.0   0.007  0.006 0.022  0.004 0.037                         0.000                    1.000                         1.000                             1.000                      1.000
+ behavior   Correction: Precision-based (PET, PEESE, UWLS, WAAP)             8.0   0.025  0.017 0.036  0.004 0.053                         0.000                    1.000                         0.875                             0.000                      0.125
+ behavior              Correction: 3PSM and 4PSM, t true effects             4.0   0.030  0.024 0.036  0.010 0.051                         0.500                    1.000                         0.750                             1.000                      1.000
+ behavior                      Correction: Andrews and Kasy, GMM            12.0   0.040  0.025 0.058  0.017 0.066                         0.750                    1.000                         0.583                             1.000                      1.000
+ behavior                              Correction: Trim-and-fill             2.0   0.087  0.086 0.088  0.085 0.089                         1.000                    1.000                         0.000                             0.500                      1.000
+ behavior                   Andrews and Kasy (ML and GMM), Eq. 1            18.0   0.060  0.052 0.096  0.046 0.128                         1.000                    0.778                         0.222                             0.667                      0.667
+ behavior                   Andrews and Kasy (ML and GMM), Eq. 2            21.0   0.011  0.001 0.022 -0.056 0.035                         0.143                    1.000                         1.000                             0.905                      0.905
+knowledge                           All corrected specifications            59.0   0.127  0.066 0.156 -0.178 0.240                         0.746                    1.000                         0.475                             0.695                      0.051
+knowledge      Without Andrews and Kasy with normal true effects            47.0   0.127  0.074 0.153  0.005 0.201                         0.809                    1.000                         0.468                             0.787                      0.043
+knowledge                   Data: K_know (uncorrected g = 0.209)            27.0   0.147  0.117 0.155 -0.178 0.193                         0.778                    1.000                         0.222                             0.481                      0.037
+knowledge                   Data: C_know (uncorrected g = 0.278)            32.0   0.090  0.052 0.157 -0.133 0.240                         0.719                    1.000                         0.688                             0.875                      0.062
+knowledge Correction: Andrews and Kasy, normal true effects (ML)            12.0   0.078 -0.108 0.203 -0.178 0.240                         0.500                    1.000                         0.500                             0.333                      0.083
+knowledge                                 Correction: RoBMA-PSMA             6.0   0.034  0.012 0.106  0.005 0.189                         0.167                    1.000                         0.667                             0.500                      0.000
+knowledge      Correction: Andrews and Kasy, t true effects (ML)            15.0   0.097  0.069 0.154  0.042 0.160                         0.867                    1.000                         0.533                             1.000                      0.133
+knowledge                      Correction: Andrews and Kasy, GMM            12.0   0.136  0.096 0.151  0.051 0.155                         1.000                    1.000                         0.500                             0.500                      0.000
+knowledge              Correction: 3PSM and 4PSM, t true effects             4.0   0.113  0.099 0.123  0.076 0.136                         1.000                    1.000                         0.500                             1.000                      0.000
+knowledge   Correction: Precision-based (PET, PEESE, UWLS, WAAP)             8.0   0.145  0.135 0.157  0.105 0.158                         0.750                    1.000                         0.250                             0.875                      0.000
+knowledge                              Correction: Trim-and-fill             2.0   0.189  0.183 0.195  0.177 0.201                         1.000                    1.000                         0.000                             1.000                      0.000
+knowledge                   Andrews and Kasy (ML and GMM), Eq. 1            18.0   0.156  0.152 0.191  0.104 0.240                         1.000                    1.000                         0.167                             0.500                      0.000
+knowledge                   Andrews and Kasy (ML and GMM), Eq. 2            21.0   0.065 -0.031 0.095 -0.178 0.151                         0.619                    1.000                         0.810                             0.762                      0.143
+  outcome                               specification  estimate  rank  of  percentile
+ behavior Eq. 2, Z = ±1.645, ±1.96, 0; t true effects     0.002     7  59      10.169
+ behavior Eq. 2, Z = −1.645, 0, 1.645; t true effects     0.005    12  59      18.644
+ behavior   Eq. 2, Z = −1.96, 0, 1.96; t true effects     0.011    18  59      28.814
+knowledge Eq. 2, Z = ±1.645, ±1.96, 0; t true effects     0.055    14  59      22.034
+knowledge Eq. 2, Z = −1.645, 0, 1.645; t true effects     0.065    15  59      23.729
+knowledge   Eq. 2, Z = −1.96, 0, 1.96; t true effects     0.072    18  59      28.814
+  outcome                                   set  specifications                     factor  r2_alone  shapley  r2_all_factors
+ behavior          All corrected specifications              59                       Data     0.004    0.002           0.934
+ behavior          All corrected specifications              59                 Correction     0.934    0.931           0.934
+ behavior Andrews and Kasy (maximum likelihood)              24                       Data     0.005    0.005           0.758
+ behavior Andrews and Kasy (maximum likelihood)              24         Selection function     0.732    0.732           0.758
+ behavior Andrews and Kasy (maximum likelihood)              24 True effects (t or normal)     0.022    0.022           0.758
+knowledge          All corrected specifications              59                       Data     0.013    0.008           0.948
+knowledge          All corrected specifications              59                 Correction     0.944    0.940           0.948
+knowledge Andrews and Kasy (maximum likelihood)              24                       Data     0.002    0.002           0.717
+knowledge Andrews and Kasy (maximum likelihood)              24         Selection function     0.643    0.643           0.717
+knowledge Andrews and Kasy (maximum likelihood)              24 True effects (t or normal)     0.072    0.072           0.717

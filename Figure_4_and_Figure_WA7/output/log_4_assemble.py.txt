@@ -1,0 +1,26 @@
+outcome    corrected  method                                    
+behavior   False      Andrews and Kasy, no selection                 5
+                      Random effects, estimates nested in trials     2
+           True       3PSM                                           2
+                      4PSM                                           2
+                      Andrews and Kasy (GMM)                        12
+                      Andrews and Kasy (maximum likelihood)         27
+                      PEESE                                          2
+                      PET                                            2
+                      RoBMA-PSMA                                     6
+                      Trim-and-fill                                  2
+                      UWLS                                           2
+                      WAAP                                           2
+knowledge  False      Andrews and Kasy, no selection                 5
+                      Random effects, estimates nested in trials     2
+           True       3PSM                                           2
+                      4PSM                                           2
+                      Andrews and Kasy (GMM)                        12
+                      Andrews and Kasy (maximum likelihood)         27
+                      PEESE                                          2
+                      PET                                            2
+                      RoBMA-PSMA                                     6
+                      Trim-and-fill                                  2
+                      UWLS                                           2
+                      WAAP                                           2
+total 132 | corrected: {'behavior': 59, 'knowledge': 59}

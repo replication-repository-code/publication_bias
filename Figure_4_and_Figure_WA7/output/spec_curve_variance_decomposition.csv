@@ -1,0 +1,11 @@
+outcome,set,specifications,factor,r2_alone,shapley,r2_all_factors
+behavior,All corrected specifications,59,Data,0.004444008138065114,0.002292330406733767,0.9336529079082484
+behavior,All corrected specifications,59,Correction,0.933512255232846,0.9313605775015146,0.9336529079082484
+behavior,Andrews and Kasy (maximum likelihood),24,Data,0.004507178622047303,0.004507178622047451,0.7582483668971548
+behavior,Andrews and Kasy (maximum likelihood),24,Selection function,0.7318291626381592,0.7318291626381592,0.7582483668971548
+behavior,Andrews and Kasy (maximum likelihood),24,True effects (t or normal),0.02191202563694794,0.02191202563694803,0.7582483668971548
+knowledge,All corrected specifications,59,Data,0.012955595748449955,0.00819643099851941,0.9477825033884151
+knowledge,All corrected specifications,59,Correction,0.9443452371398262,0.9395860723898957,0.9477825033884151
+knowledge,Andrews and Kasy (maximum likelihood),24,Data,0.0017733951031282391,0.001773395103128276,0.7171018850344604
+knowledge,Andrews and Kasy (maximum likelihood),24,Selection function,0.643328899107283,0.6433288991072829,0.7171018850344604
+knowledge,Andrews and Kasy (maximum likelihood),24,True effects (t or normal),0.07199959082404916,0.07199959082404919,0.7171018850344604

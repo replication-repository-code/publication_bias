@@ -1,0 +1,6 @@
+K_know    sym1645     g =  0.15484 (SE 0.03544)     2.0s
+K_know    asym1645_3  g =  0.15062 (SE 0.04236)     3.6s
+K_know    sym196      g =  0.15236 (SE 0.03819)     2.0s
+K_know    asym196_3   g =  0.15141 (SE 0.04448)     3.7s
+K_know    symboth     g =  0.14749 (SE 0.04548)     5.0s
+K_know    asymboth_3  g =  0.14447 (SE 0.05236)     8.5s
