@@ -1,0 +1,10 @@
+# Table WA11: multilevel RoBMA-PSMA, combined behavior data (also the RoBMA estimate in figure 3).
+# Run from this folder: Rscript table_WA11.R   (about 1-3 hours; requires JAGS)
+source("robma_functions.R")
+d <- read.csv("data/C_full.csv")
+fit <- if (file.exists("output/robma_C_full_ml.rds")) readRDS("output/robma_C_full_ml.rds") else fit_robma(d, "ml")
+if (!file.exists("output/robma_C_full_ml.rds")) saveRDS(fit, "output/robma_C_full_ml.rds")
+s <- robma_summary(fit, "C_full multilevel"); m <- robma_models(fit, "ml")
+write.csv(s, "output/table_WA11_summary.csv", row.names = FALSE); write.csv(m, "output/table_WA11_models.csv", row.names = FALSE)
+cat("Leave-one-trial-out elpd (SE):", attr(m, "elpd_loo"), "\n")
+sink("output/robma_C_full_ml_printout.txt"); print(summary(fit)); sink(); print(s); print(head(m, 3))

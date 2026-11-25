@@ -1,0 +1,18 @@
+Warning message:
+Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+ 
+Leave-one-trial-out elpd (SE): 444.5044 182.4072 
+              model BF_effect post_prob_effect BF_heterogeneity BF_bias
+1 C_full multilevel     1.143        0.5334056          >179999 >179999
+          mu mu_lo     mu_hi mu_q25     mu_q75       tau    tau_lo    tau_hi
+1 0.02635799     0 0.0813965      0 0.05026413 0.1449218 0.1273163 0.1665422
+        rho    rho_lo    rho_hi I2   mu_ESS  mu_Rhat n_draws
+1 0.5764929 0.4489771 0.6920064 NA 358.4536 1.011978  180000
+   effect heterogeneity                      bias prior_prob n_draws
+32    Yes           Yes                       PET 0.03125000   94096
+31     No           Yes                       PET 0.03125000   83987
+24    Yes           Yes omega[one-sided: .05, .5] 0.01041667     929
+     post_prob mean_loglik post_odds_ratio BF_vs_best
+32 0.522755556    486.0848      16.7281778 1.00000000
+31 0.466594444    482.0314      14.9310222 0.89256717
+24 0.005161111    481.9654       0.4954667 0.02961869

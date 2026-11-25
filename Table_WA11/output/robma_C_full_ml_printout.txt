@@ -1,0 +1,36 @@
+
+Robust Bayesian Model-Averaged Multilevel Random-Effects Model (k = 1092, clusters = 130)
+
+Component Inclusion
+                 Prior prob. Post. prob. Inclusion BF error%(Inclusion BF)
+Effect                 0.500       0.533        1.143               13.354
+Heterogeneity          0.500       1.000  >179999.000                   NA
+Publication Bias       0.500       1.000  >179999.000                   NA
+
+Estimates
+     Mean    SD 0.025   0.5 0.975 error(MCMC) error(MCMC)/SD  ESS R-hat
+mu  0.026 0.028 0.000 0.022 0.081     0.00149          0.053  358 1.012
+tau 0.145 0.010 0.127 0.144 0.167     0.00011          0.011 8460 1.001
+rho 0.576 0.062 0.449 0.579 0.692     0.00067          0.011 8569 1.001
+
+Publication Bias
+                   Mean    SD 0.025   0.5 0.975 error(MCMC) error(MCMC)/SD  ESS
+omega[0,0.025]    1.000 0.000 1.000 1.000 1.000          NA             NA   NA
+omega[0.025,0.05] 1.000 0.000 1.000 1.000 1.000     0.00001          0.012 2211
+omega[0.05,0.5]   1.000 0.003 1.000 1.000 1.000     0.00009          0.030 1046
+omega[0.5,0.95]   0.997 0.035 1.000 1.000 1.000     0.00142          0.040  418
+omega[0.95,0.975] 0.997 0.035 1.000 1.000 1.000     0.00142          0.040  418
+omega[0.975,1]    0.997 0.035 1.000 1.000 1.000     0.00142          0.040  418
+PET               0.893 0.209 0.500 0.921 1.207     0.00935          0.045  560
+PEESE             0.009 0.126 0.000 0.000 0.000     0.00445          0.035  511
+                  R-hat
+omega[0,0.025]       NA
+omega[0.025,0.05] 1.291
+omega[0.05,0.5]   1.202
+omega[0.5,0.95]   1.199
+omega[0.95,0.975] 1.199
+omega[0.975,1]    1.199
+PET               1.017
+PEESE             1.162
+P-value intervals for publication bias weights omega correspond to one-sided p-values.
+
