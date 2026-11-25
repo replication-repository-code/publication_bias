@@ -1,0 +1,28 @@
+normal   none        mu =  0.0090 (SE 0.0061)  logL = 30.36
+normal   sym1645     mu =  0.0086 (SE 0.0059)  logL = 30.38
+normal   asym1645_3  mu =  0.0023 (SE 0.0085)  logL = 30.74
+
+Equation 2, three regions (output/equation_2.csv)
+                                 quantity estimate    se
+1                             Corrected r    0.002 0.008
+2                             Corrected g    0.005 0.017
+3          Publication probability, Z < 0    0.314 0.441
+4 Publication probability, 0 <= Z < 1.645    0.498 0.528
+
+Equation 1, |Z| = 1.645 (output/equation_1.csv)
+                              quantity estimate    se
+1                          Corrected r    0.009 0.006
+2                          Corrected g    0.017 0.012
+3 Publication probability, |Z| < 1.645    0.881 0.722
+
+Numbers quoted in the text (g with 95% CI; log likelihood)
+                              model                           spec        g
+1       Equation 2, Z = 0 and 1.645                     asym1645_3 0.004578
+2           Equation 1, |Z| = 1.645                        sym1645 0.017216
+3                      No selection                           none 0.017979
+4 Uncorrected fixed-effect estimate inverse-variance weighted mean 0.017979
+      ci_lo   ci_hi  logL
+1 -0.028609 0.03777 30.74
+2 -0.005732 0.04016 30.38
+3 -0.005854 0.04181 30.36
+4 -0.007663 0.04362    NA
