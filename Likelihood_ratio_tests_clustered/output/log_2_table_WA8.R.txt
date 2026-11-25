@@ -1,0 +1,7 @@
+none      LR vs best =  166.74 (q = 5)  weights = 4.99; 1.78; 1.66; 1.30; 0.77 p = 1.64e-08 (indep. 3.63e-34) | t vs normal LR = 325.2, design effect 1.97, p = 4.9e-38
+sym1645   LR vs best =  144.88 (q = 4)  weights = 3.57; 1.78; 1.64; 1.10     p = 4.95e-10 (indep. 2.54e-30) | t vs normal LR = 312.9, design effect 2.60, p = 2.7e-28
+asym1645  LR vs best =   18.18 (q = 2)  weights = 2.75; 1.67                 p = 1.85e-02 (indep. 1.13e-04) | t vs normal LR = 352.8, design effect 3.75, p = 1.5e-22
+sym196    LR vs best =  162.14 (q = 4)  weights = 3.32; 1.67; 1.43; 1.21     p = 7.32e-12 (indep. 5.07e-34) | t vs normal LR = 245.0, design effect 2.29, p = 2.1e-25
+asym196   LR vs best =   49.41 (q = 2)  weights = 1.55; 1.45                 p = 7.59e-08 (indep. 1.86e-11) | t vs normal LR = 279.5, design effect 3.91, p = 1.5e-17
+symboth   LR vs best =  144.88 (q = 3)  weights = 3.26; 1.64; 1.22           p = 5.37e-11 (indep. 3.35e-31) | t vs normal LR = 261.8, design effect 2.75, p = 8.2e-23
+asymboth  t vs normal LR = 314.9, design effect 4.51, p = 3.2e-17
