@@ -1,0 +1,30 @@
+               group   k n_signeg re_mu  ak_spec     ak_mu   ak_se
+1 Outcome: borrowing 253       13 0.062 asym1645 -0.000526 0.00405
+                            group   k n_signeg re_mu    ak_spec  ak_mu  ak_se
+1 Outcome: budgeting and planning 173        3 0.144 asym1645_3 0.0378 0.0164
+                          group   k n_signeg re_mu  ak_spec ak_mu  ak_se
+1 Outcome: saving and investing 443       13 0.115 asym1645  0.02 0.0127
+                                             group   k n_signeg re_mu  ak_spec
+1 Outcome: other behaviors and downstream outcomes 223        8 0.116 asym1645
+    ak_mu  ak_se
+1 0.00444 0.0261
+                    group   k n_signeg re_mu  ak_spec   ak_mu  ak_se
+1 Intervention: classroom 590       20 0.119 asym1645 0.00958 0.0112
+                     group   k n_signeg re_mu    ak_spec    ak_mu   ak_se
+1 Intervention: counseling 149        2 0.148 asym1645_3 -0.00183 0.00639
+                            group  k n_signeg  re_mu    ak_spec    ak_mu
+1 Intervention: educational nudge 34        1 0.0553 asym1645_3 -0.00331
+     ak_se
+1 0.000822
+                 group   k n_signeg re_mu  ak_spec  ak_mu  ak_se
+1 Intervention: online 234       10 0.148 asym1645 0.0101 0.0221
+               group   k n_signeg re_mu  ak_spec   ak_mu  ak_se
+1 Sample: low-income 639       26 0.125 asym1645 0.00832 0.0121
+                       group   k n_signeg re_mu  ak_spec   ak_mu   ak_se
+1 Sample: general population 453       11 0.122 asym1645 0.00629 0.00751
+                   group   k n_signeg re_mu  ak_spec   ak_mu  ak_se
+1 Journal: top economics 202       12 0.105 asym1645 -0.0267 0.0176
+           group   k n_signeg re_mu  ak_spec   ak_mu   ak_se
+1 Journal: other 890       25 0.125 asym1645 0.00785 0.00655
+  group    k n_signeg re_mu  ak_spec  ak_mu   ak_se
+1   All 1092       37 0.123 asym1645 0.0048 0.00605
