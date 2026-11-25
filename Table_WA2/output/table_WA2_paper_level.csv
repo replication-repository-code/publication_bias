@@ -1,0 +1,7 @@
+"sample","model","g","sigma2","logLik"
+"C_full","Trials and estimates (body of the paper)",0.122998444022203,"0.0143; 0.00879",474.327794442614
+"C_full","Papers crossed with trials",0.122998444463492,"1.77e-11; 0.0143; 0.00879",474.327794398655
+"C_full","Trials nested in papers",0.12115578857687,"0.0137; 2.81e-10; 0.00892",466.570708675063
+"C_know","Trials and estimates (body of the paper)",0.278246313084818,"0.0544; 0.0127",62.0021663563858
+"C_know","Papers crossed with trials",0.278079626801983,"0.000879; 0.0535; 0.0127",62.0082199531968
+"C_know","Trials nested in papers",0.27131060862985,"0.0419; 0.0108; 0.0127",61.2679097909664
