@@ -1,0 +1,6 @@
+t        sym1645     mu =  0.0457 (SE 0.0097)  logL = 556.20
+t        asym1645    mu =  0.0048 (SE 0.0061)  logL = 619.55
+t        sym196      mu =  0.0516 (SE 0.0112)  logL = 547.57
+t        asym196     mu =  0.0111 (SE 0.0091)  logL = 603.94
+t        symboth     mu =  0.0455 (SE 0.0110)  logL = 556.21
+t        asymboth    mu =  0.0019 (SE 0.0052)  logL = 628.64
